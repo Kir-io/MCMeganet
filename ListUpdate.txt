@@ -72,3 +72,4 @@ mods/neiaddons1710.jar
 mods/netherlicious-3.2.3-1.7.10.jar
 mods/notenoughitems-2.4.2-gtnh.jar
 mods/worldeditcuife-v1.0.3-mf-1.7.10-10.13.4.1566.jar
+options.txt
